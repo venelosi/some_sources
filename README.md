@@ -22,3 +22,7 @@ math for ml andrew ng : https://www.coursera.org/specializations/mathematics-for
 
 MACHİNE LEARNİNG
 https://roadmap.sh/machine-learning
+
+
+BOOKS
+so much books : https://github.com/manjunath5496
